@@ -128,7 +128,7 @@
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
     background: rgb(204, 17, 17);
-    color: rgb(134, 26, 26);
+    color: rgb(255, 255, 255);
 }
 .promos {
     color: white;
