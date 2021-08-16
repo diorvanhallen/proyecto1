@@ -95,6 +95,7 @@
     text-align: center;
     color: white;
     list-style: none;
+    padding-top: 15px;
 }
 
 .salsas_lista {
@@ -280,9 +281,9 @@
 .iconos {
     grid-column: 2/3;
     grid-row: 2/3;
-    padding-top: 60px;
     display: flex;
     flex-wrap: wrap;
+    padding-top: 60px;
 }
 
 @media screen and(max-width: 800px;) {
